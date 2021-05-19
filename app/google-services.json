@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540431564888",
+    "project_id": "jeux-de-societe-cb0e4",
+    "storage_bucket": "jeux-de-societe-cb0e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540431564888:android:a2b690e536767fad7c8a2d",
+        "android_client_info": {
+          "package_name": "com.example.jeudesocit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540431564888-1esddopu00gi0v3k1ivu980ep4u00o16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKVWymqm0IBL3Gkd9iDR4VL1YlKl07Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540431564888-1esddopu00gi0v3k1ivu980ep4u00o16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
